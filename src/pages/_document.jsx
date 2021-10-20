@@ -34,7 +34,7 @@ export default class MyDocument extends Document {
         <Head>
           <meta charSet="utf-8" />
           <link
-            href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap"
+            href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;700&display=swap"
             rel="stylesheet"
           />
         </Head>

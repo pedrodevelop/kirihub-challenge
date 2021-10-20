@@ -8,9 +8,8 @@ export default createGlobalStyle`
   }
   
   body {
-    height: 100vh;
-    font-family: Inter, sans-serif;
-    background-color: #f2f2f2;
+    font-family: Roboto, sans-serif;
+    background-color: rgba(48, 16, 255, 1);
     display: flex;
     justify-content: center;
     align-items: center;
