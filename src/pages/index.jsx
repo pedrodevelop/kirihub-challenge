@@ -1,5 +1,6 @@
 import React from 'react';
 import Head from 'next/head';
+import TodoList from '../components/TodoList';
 
 export default function Home() {
   return (
@@ -9,7 +10,7 @@ export default function Home() {
       </Head>
 
       <main>
-        <h1>Hello World</h1>
+        <TodoList />
       </main>
     </div>
   );

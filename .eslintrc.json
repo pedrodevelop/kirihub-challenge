@@ -28,6 +28,7 @@
     "comma-dangle": "off",
     "react/jsx-props-no-spreading": "off",
     "implicit-arrow-linebreak": "off",
-    "object-curly-newline": "off"
+    "object-curly-newline": "off",
+    "react/jsx-wrap-multilines": "off"
   }
 }
