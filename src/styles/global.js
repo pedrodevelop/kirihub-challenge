@@ -9,7 +9,7 @@ export default createGlobalStyle`
   
   body {
     font-family: Roboto, sans-serif;
-    background-color: rgba(48, 16, 255, 1);
+    background-color: #4d4dff;
     display: flex;
     justify-content: center;
     align-items: center;
