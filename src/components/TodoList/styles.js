@@ -50,7 +50,7 @@ export const ListItem = styled(MuiListItem)({
   aligItems: 'center',
   margin: '4px auto',
   color: '#fff',
-  backgroundColor:
+  background:
     'linear-gradient(90deg,rgba(255, 118, 20, 1) 0%,rgba(255, 84, 17, 1) 100%);',
   padding: 16,
   borderRadius: 5,
